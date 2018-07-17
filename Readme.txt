@@ -10,8 +10,9 @@ Requirements :
 1. FPSigma FPG-C32T2H Panasonic PLC
 2. FPG-COM2 AFPG802 (RS232 Cassette for FPSigma)
 3. RS232 to USB Converter
-4. laptop/PC
+4. PC Server
 5. Raspi 3
+6. Kinco HMI
 
 * Software :
 1. Python 2.7
